@@ -8,6 +8,7 @@ See [Deep Learning based Super Resolution with OpenCV](https://towardsdatascienc
 
 ```
 docker run -v /home/bobbigmac/projects/a_demos/opencv/:/test/ --rm -it python-opencv-ffmpeg:py36 python /test/test-upsize.py
+docker run -v G:\\projects\\opencv:/test/ --rm -it python-opencv-ffmpeg:py36 python /test/test-upsize.py
 ```
 
 # Models

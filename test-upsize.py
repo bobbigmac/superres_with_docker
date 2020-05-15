@@ -25,3 +25,6 @@ cv2.imwrite("/test/images/frame1upscaled.png", result)
 #cv2.imwrite("/test/images/art1up2.jpg", result)
 
 #TODO potrace to vector
+#TODO maybe useful https://gist.github.com/zph/2494870
+#TODO maybe useful https://github.com/unpaper/unpaper
+#TODO maybe useful http://www.fmwconcepts.com/imagemagick/textcleaner/index.php
